@@ -1,0 +1,5 @@
+Python version: 3.x.x (verified with python --version)
+Virtual environment: Active (venv)
+Django version: x.x.x (verified with python -m django --version)
+Runserver: Working (verified with python manage.py runserver)
+Git remote: Set (verified with git remote -v)

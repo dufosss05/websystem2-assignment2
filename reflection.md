@@ -1,0 +1,5 @@
+# Reflection
+
+Setting up my Django environment for this assignment was both challenging and rewarding. At first, I had difficulty installing the correct Python version because my system already had another version installed globally. To solve this, I verified the active version using `python --version` and then created a virtual environment to isolate my project dependencies. Activating the venv was another small hurdle because the command differed slightly on Windows compared to tutorials I followed, but after running the correct script from the `Scripts` folder, it worked.
+
+Another challenge was ensuring Django was installed correctly and that the project could run. I encountered an error when I first tried `python manage.py runserver`, but after carefully reinstalling Django inside the virtual environment, the server ran successfully. Lastly, connecting my project to a Git repository took some trial and error, especially setting the remote URL, but I confirmed it with `git remote -v`. Overall, this process taught me patience, careful troubleshooting, and reinforced the importance of virtual environments in managing dependencies.
